@@ -21,4 +21,4 @@ This is an Ecommerce site to view different Products and make an purchase
 - Build all the restful ApI for the site using native php and oop
 - Design the database using ERD and RS
 - integrate between the backend server and database server 
-- integrate beween the frontend and backend server
+- integrate between the frontend and backend server
